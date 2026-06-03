@@ -1,5 +1,5 @@
 class Solution {
-    //anushka
+    
     public boolean containsDuplicate(int[] nums) {
         HashSet<Integer> seenNumbers = new HashSet<>();
         for (int num : nums){
